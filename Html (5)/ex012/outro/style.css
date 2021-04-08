@@ -1,0 +1,16 @@
+body {
+    font: 15pt arial;
+    color: rgb(1, 59, 59);
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    font: 30pt arial;
+    color: darkcyan;
+    background-color: rgb(255, 255, 255);
+}
+
+h2 {
+    font: 25pt arial;
+    color: darkcyan;
+}

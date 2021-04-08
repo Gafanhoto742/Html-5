@@ -1,0 +1,17 @@
+body {
+    font: 20pt arial;
+    background-color: darkgoldenrod;
+    color: darkgrey;
+}
+
+h1 {
+    font: 30pt arial;
+}
+
+h2 {
+    font: 25pt arial;
+}
+
+b {
+    color: black;
+}
