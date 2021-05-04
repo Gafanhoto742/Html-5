@@ -8,3 +8,9 @@ h2 {
     color: chartreuse;
     font: 30pt arial;
 }
+
+body {
+    background-color: darkslategrey;
+    color: black;
+    font: 20pt arial;
+}

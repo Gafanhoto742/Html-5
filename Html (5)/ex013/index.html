@@ -6,11 +6,23 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Imagem adaptável</title>
+
 </head>
 
 <body>
-
+    <main>
+        <header>
+            <h1>Imagens dinâmicas</h1>
+            <hr>
+        </header>
+        <p>Abra o site em diferentes dispositivos.</p>
+        <picture>
+            <source media="(max-width: 750px)" srcset="images/cell.png" type="imge/png">
+            <source media="(max-width: 1050px)" srcset="images/foto-Tablet.png" type="image/png">
+            <img src="images/PC.png" alt="flexivel">
+        </picture>
+    </main>
 </body>
 
 </html>
