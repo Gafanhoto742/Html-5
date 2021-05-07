@@ -1,0 +1,38 @@
+main {
+    background-color: blueviolet;
+    color: black;
+    font: 20pt monospace;
+    border-radius: 10px;
+    height: auto;
+    width: auto;
+}
+
+body {
+    background-color: dimgray;
+    height: auto;
+    width: auto;
+}
+
+h1 {
+    font: 30pt arial;
+    text-align: center;
+}
+
+h2 {
+    font: 25pt arial;
+}
+
+hr {
+    height: 5px;
+    width: auto;
+    color: dimgray;
+    background-color: dimgray;
+    border-radius: 10px;
+}
+
+video {
+    height: auto;
+    width: 400px;
+    border-radius: 10px;
+    text-align: center;
+}
