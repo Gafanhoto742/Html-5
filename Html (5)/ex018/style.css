@@ -1,0 +1,39 @@
+@charset "UTF-8";
+main {
+    background-color: rgb(172, 172, 172);
+    color: black;
+    font: 20pt arial;
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+body {
+    background-image: url("paper.gif");
+    background-color: #cccccc;
+}
+
+hr {
+    border-radius: 10px;
+    height: 5px;
+    width: auto;
+    background-color: blueviolet;
+}
+
+h1 {
+    font: 30pt monospace;
+    float: center;
+    text-align: center;
+}
+
+h2 {
+    font: 25pt monospace;
+}
+
+video {
+    border-radius: 10px;
+}
