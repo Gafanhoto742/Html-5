@@ -1,0 +1,34 @@
+body {
+    background-image: url(img/double-bubble-dark.png);
+}
+
+main {
+    background-image: url(img/double-bubble.png);
+    font-family: 20pt monospace;
+    text-align: center;
+    border-radius: 10px;
+    height: auto;
+    width: auto;
+}
+
+.box {
+    height: auto;
+    width: auto;
+    background-color: rgba(240, 248, 255, 0.733);
+    box-shadow: 4px, 4px, 6px;
+}
+
+h1 {
+    font: 30pt arial;
+}
+
+h2 {
+    font: 25pt arial;
+}
+
+hr {
+    box-shadow: 4px, 4px, 6px;
+    border-radius: 10px;
+    height: 5px;
+    width: auto;
+}
